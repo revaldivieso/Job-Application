@@ -1,11 +1,11 @@
 .layout {
-  display: flex;
-  flex: 1 1 auto;
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  overflow: auto;
-  background-color: white;
+  background-image: url("../images/coche.jpg");
+  background-color: #cccccc;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 .layout .content {

@@ -1,9 +1,9 @@
 import React from "react";
-import "./Sidebar.css";
+import "./SideBar.css";
 
 function SideBar() {
   return (
-    <div className="w3-sidebar w3-bar-block w3-xxlarge">
+    <div id="sidebar" className="sidebar  w3-bar-block w3-xxlarge">
       <div id="home">
         <a href="#" class="w3-bar-item w3-button">
           <i class="fa fa-home"></i>
