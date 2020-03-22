@@ -2,10 +2,16 @@
   color: rgb(48, 51, 53);
 }
 
-p {
+.col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.card {
   text-align: center;
   height: 250px;
-  background: rgb(200, 234, 236);
   width: 800px;
   opacity: 0.6;
 }

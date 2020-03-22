@@ -1,0 +1,14 @@
+.red a {
+  margin: 10px 10px;
+}
+
+.fab {
+  font-size: 70px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}

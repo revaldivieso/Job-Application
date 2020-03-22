@@ -1,0 +1,17 @@
+.h2 {
+  font-weight: 900;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.card {
+  text-align: center;
+  height: 250px;
+  width: 800px;
+  opacity: 0.6;
+}
