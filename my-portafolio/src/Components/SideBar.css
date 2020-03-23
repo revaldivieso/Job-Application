@@ -1,7 +1,8 @@
 #sidebar a {
-  background: rgb(77, 72, 72);
+  background: #f4decb;
   padding: 10px 20px;
-  color: rgb(243, 223, 223);
+
+  color: #18121e;
   text-decoration: none;
   width: 80px;
   transition: all 0.4s ease;
@@ -9,8 +10,8 @@
 }
 
 #sidebar a:hover {
-  color: rgb(243, 223, 223) !important;
-  background: rgb(77, 72, 72) !important;
+  color: #f4decb !important;
+  background: #18121e !important;
   padding: 10px 80px;
   border-top-right-radius: 130px;
   border-bottom-right-radius: 120px;

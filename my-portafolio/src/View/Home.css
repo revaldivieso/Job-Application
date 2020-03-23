@@ -1,21 +1,17 @@
-.home {
-  color: rgb(48, 51, 53);
-}
-
-.col {
+.container {
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
 }
 
-.card {
-  text-align: center;
-  height: 250px;
-  width: 800px;
-  opacity: 0.6;
-}
-
-h1 {
+p {
   font-weight: 900;
+  color: #f4decb;
+  text-align: center;
 }

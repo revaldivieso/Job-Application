@@ -6,8 +6,6 @@ import AboutMe from "./View/AboutMe";
 import Home from "./View/Home";
 import SideBar from "./Components/SideBar";
 import Layout from "./Components/Layout";
-
-import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
