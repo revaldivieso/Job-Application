@@ -6,29 +6,29 @@ function SideBar() {
   return (
     <div id="sidebar" className="sidebar  w3-bar-block w3-xxlarge">
       <div id="home">
-        <Link to="/" class="w3-bar-item w3-button">
-          <i class="fa fa-home"></i>
+        <Link to="/" className="w3-bar-item w3-button">
+          <i className="fa fa-home"></i>
         </Link>
       </div>
       <div id="about-me">
-        <Link to="/AboutMe" class="w3-bar-item w3-button">
-          <i class="far fa-address-card"></i>
+        <Link to="/AboutMe" className="w3-bar-item w3-button">
+          <i className="far fa-address-card"></i>
         </Link>
       </div>
 
       <div id="proyects">
-        <Link to="/proyects" class="w3-bar-item w3-button">
-          <i class="fas fa-code"></i>
+        <Link to="/proyects" className="w3-bar-item w3-button">
+          <i className="fas fa-code"></i>
         </Link>
       </div>
       <div id="skill">
-        <Link to="/skill" class="w3-bar-item w3-button">
-          <i class="fas fa-cubes"></i>
+        <Link to="/skill" className="w3-bar-item w3-button">
+          <i className="fas fa-cubes"></i>
         </Link>
       </div>
       <div id="contact">
-        <Link to="/contact" class="w3-bar-item w3-button">
-          <i class="fa fa-envelope"></i>
+        <Link to="/contact" className="w3-bar-item w3-button">
+          <i className="fa fa-envelope"></i>
         </Link>
       </div>
     </div>

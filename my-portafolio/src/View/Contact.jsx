@@ -1,29 +1,27 @@
 import React from "react";
 import "./Contact.css";
-import { Link } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 
 function Contact() {
   return (
-    <Container className="red">
+    <Container fliud="md" className="red">
       <Row>
         <Col>
-          <Link to="/contact/email" className="btn btn-email">
-            <i class="fab fa-google"></i>
-          </Link>
-          <Link to="/contact/phone" className="btn btn-phone">
-            <i class="fab fa-whatsapp"></i>
-          </Link>
-          <Link
-            to="https://www.linkedin.com
-/in/vianny-reyes-65b919157"
-            className="btn btn-linkedin"
+          <a href="mailto:reyesvi92@gmail.com" className="btn btn-email">
+            <i className="fab fa-google"></i>
+          </a>
+          <a href="/contact/phone" className="btn btn-phone">
+            <i className="fab fa-whatsapp"></i>
+          </a>
+          <a
+            href="https://www.linkedin.com/in/vianny-reyes-65b919157"
+            className="btn btn-aedin"
           >
-            <i class="fab fa-linkedin"></i>
-          </Link>
-          <Link to="/contact/github" className="btn btngithub">
-            <i class="fab fa-github"></i>
-          </Link>
+            <i className="fab fa-linkedin"></i>
+          </a>
+          <a href="https://github.com/revaldivieso" className="btn btngithub">
+            <i className="fab fa-github"></i>
+          </a>
         </Col>
       </Row>
     </Container>

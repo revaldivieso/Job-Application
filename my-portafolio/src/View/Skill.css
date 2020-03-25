@@ -8,3 +8,9 @@
   background: #f4decb;
   color: #18121e;
 }
+
+.proyects {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+}

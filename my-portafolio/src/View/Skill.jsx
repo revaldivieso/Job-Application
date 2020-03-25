@@ -1,44 +1,43 @@
 import React from "react";
 import "./Skill.css";
-import { Container, Row, Col, Card } from "react-bootstrap";
+import { Container, Row, Col, Card, ListGroup } from "react-bootstrap";
 
 function Skill() {
   return (
     <Container fliud="md" className="proyects">
       <Row className="justify-content-md-center">
-        <Col className="col-md-6">
-          <Card>
-            <Card.Title>Habilidades técnicas</Card.Title>
-            <Card.Text>
-              <ul class="list-group">
-                <li class="list-group-item">
-                  ECMAScript v6<i class="fab fa-google"></i>
-                </li>
-                <li class="list-group-item">HTML5</li>
-                <li class="list-group-item">CSS</li>
-                <li class="list-group-item">Firebase</li>
-                <li class="list-group-item">React</li>
-                <li class="list-group-item">Git</li>
-                <li class="list-group-item">GitHub</li>
-              </ul>
-            </Card.Text>
+        <Col>
+          <Card style={{ width: "14rem" }}>
+            <Card.Body>
+              <Card.Title>Habilidades técnicas</Card.Title>
+            </Card.Body>
+            <ListGroup variant="flush">
+              <ListGroup.Item>ECMAScript v6</ListGroup.Item>
+              <ListGroup.Item>HTML5</ListGroup.Item>
+              <ListGroup.Item>CSS</ListGroup.Item>
+              <ListGroup.Item>Firebase</ListGroup.Item>
+              <ListGroup.Item>React</ListGroup.Item>
+              <ListGroup.Item>Git</ListGroup.Item>
+              <ListGroup.Item>GitHub</ListGroup.Item>
+            </ListGroup>
           </Card>
         </Col>
-        <Col className="cold-md-6">
-          <Card>
-            <Card.Title>Habilidades soft</Card.Title>
-            <Card.Text>
-              <ul class="list-group">
-                <li class="list-group-item">Planificación</li>
-                <li class="list-group-item">Trabajo en equipo</li>
-                <li class="list-group-item">Metodologías ágiles</li>
-                <li class="list-group-item">
-                  Resolución colaborativa de problemas
-                </li>
-                <li class="list-group-item">Capacidad para adaptarse</li>
-                <li class="list-group-item">Habilidades interpersonales</li>
-              </ul>
-            </Card.Text>
+        <Col>
+          <Card style={{ width: "14rem" }}>
+            <Card.Body>
+              <Card.Title>Habilidades soft</Card.Title>
+            </Card.Body>
+            <ListGroup variant="flush">
+              <ListGroup.Item>Planificación</ListGroup.Item>
+              <ListGroup.Item>Trabajo en equipo</ListGroup.Item>
+              <ListGroup.Item>Metodologías ágiles</ListGroup.Item>
+              <ListGroup.Item>
+                Resolución colaborativa de problemas
+              </ListGroup.Item>
+              <ListGroup.Item>Capacidad para adaptarse</ListGroup.Item>
+              <ListGroup.Item>Habilidades interpersonales</ListGroup.Item>
+              <ListGroup.Item>Comunicación</ListGroup.Item>
+            </ListGroup>
           </Card>
         </Col>
       </Row>
