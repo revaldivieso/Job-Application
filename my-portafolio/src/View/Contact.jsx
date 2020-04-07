@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 function Contact() {
   return (
-    <Container fliud="md" className="red">
+    <Container fluid className="red">
       <Row>
         <Col>
           <a href="mailto:reyesvi92@gmail.com" className="btn btn-email">

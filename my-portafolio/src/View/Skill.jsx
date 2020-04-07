@@ -1,5 +1,5 @@
 import React from "react";
-import "./Skill.css";
+//import "./Skill.css";
 import { Container, Row, Col, Card, ListGroup } from "react-bootstrap";
 
 function Skill() {

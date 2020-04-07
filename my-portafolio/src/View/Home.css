@@ -1,17 +1,31 @@
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
+* {
+  padding: 0;
+  margin: 0;
 }
-
 .col-home {
   font-weight: 900;
   color: #f4decb;
+}
+
+.img-vianny {
+  width: 300px;
+  height: 300px;
+  margin: 1em auto;
+  border-radius: 50%;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.home {
+  display: inline;
   text-align: center;
+  padding: 40px 1em 1em 2em;
 }

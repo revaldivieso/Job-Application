@@ -5,9 +5,17 @@
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  text-align: center;
+  padding: 40px 1em 1em 2em;
 }
 
 .layout {
+  flex: 1 1 auto;
+}
+
+.content {
   display: flex;
   flex: 1 1 auto;
+  height: 100vh;
+  flex-wrap: wrap;
 }
