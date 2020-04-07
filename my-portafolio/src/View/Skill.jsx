@@ -1,44 +1,52 @@
 import React from "react";
 //import "./Skill.css";
-import { Container, Row, Col, Card, ListGroup } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 
 function Skill() {
   return (
-    <Container fliud="md" className="proyects">
-      <Row className="justify-content-md-center">
+    <Container fliud className="skills-direction">
+      <Row className="justify-content-md-center skills-container">
         <Col>
-          <Card style={{ width: "14rem" }}>
-            <Card.Body>
-              <Card.Title>Habilidades técnicas</Card.Title>
-            </Card.Body>
-            <ListGroup variant="flush">
-              <ListGroup.Item>ECMAScript v6</ListGroup.Item>
-              <ListGroup.Item>HTML5</ListGroup.Item>
-              <ListGroup.Item>CSS</ListGroup.Item>
-              <ListGroup.Item>Firebase</ListGroup.Item>
-              <ListGroup.Item>React</ListGroup.Item>
-              <ListGroup.Item>Git</ListGroup.Item>
-              <ListGroup.Item>GitHub</ListGroup.Item>
-            </ListGroup>
-          </Card>
-        </Col>
-        <Col>
-          <Card style={{ width: "14rem" }}>
-            <Card.Body>
-              <Card.Title>Habilidades soft</Card.Title>
-            </Card.Body>
-            <ListGroup variant="flush">
-              <ListGroup.Item>Planificación</ListGroup.Item>
-              <ListGroup.Item>Trabajo en equipo</ListGroup.Item>
-              <ListGroup.Item>Metodologías ágiles</ListGroup.Item>
-              <ListGroup.Item>
-                Resolución colaborativa de problemas
-              </ListGroup.Item>
-              <ListGroup.Item>Capacidad para adaptarse</ListGroup.Item>
-              <ListGroup.Item>Habilidades interpersonales</ListGroup.Item>
-              <ListGroup.Item>Comunicación</ListGroup.Item>
-            </ListGroup>
-          </Card>
+          <h2 className="title">Habilidades técnicas</h2>
+          <a
+            href="https://developer.mozilla.org/es/docs/Web/JavaScript"
+            className="btn btn-js"
+          >
+            <i class="fab fa-js"></i>
+          </a>
+          <a href="https://es.reactjs.org" className="btn btn-react">
+            <i class="fab fa-react"></i>
+          </a>
+          <a
+            href="https://developer.mozilla.org/es/docs/Web/HTML"
+            className="btn btn-html"
+          >
+            <i class="fab fa-html5"></i>
+          </a>
+          <a
+            href="https://developer.mozilla.org/es/docs/Web/CSS"
+            className="btn btn-css"
+          >
+            <i class="fab fa-css3-alt"></i>
+          </a>
+          <a
+            href="https://firebase.google.com/?hl=es"
+            className="btn btn-firebase"
+          >
+            <i class="fas fa-fire"></i>
+          </a>
+          <a href="https://nodejs.org/es/" className="btn btn-node">
+            <i class="fab fa-node"></i>
+          </a>
+          <a href="https://git-scm.com/" className="btn btn-git">
+            <i class="fab fa-git-alt"></i>
+          </a>{" "}
+          <a href="https://github.com/revaldivieso" className="btn btngithub">
+            <i className="fab fa-github"></i>
+          </a>{" "}
+          <a href="https://getbootstrap.com" className="btn btn-bootstrap">
+            <i class="fab fa-bootstrap"></i>
+          </a>
         </Col>
       </Row>
     </Container>

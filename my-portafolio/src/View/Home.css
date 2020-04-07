@@ -24,8 +24,11 @@ img {
   flex-wrap: wrap;
 }
 
+.col-home {
+  text-align: center;
+  padding: 30px 1em 1em 2em;
+}
+
 .home {
   display: inline;
-  text-align: center;
-  padding: 40px 1em 1em 2em;
 }

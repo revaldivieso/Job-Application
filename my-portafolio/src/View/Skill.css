@@ -1,16 +1,28 @@
-.col {
-  display: flex;
-}
+@media only screen and (max-width: 700px) and (min-width: 415px) {
+  .skills-direction {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .col {
+    display: flex;
+    color: #f4decb;
+  }
 
-.card li {
-  flex: 1 0 auto;
-  flex: 1 1 auto;
-  background: #f4decb;
-  color: #18121e;
-}
+  .skills-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  }
 
-.proyects {
-  display: flex;
-  justify-content: center;
-  position: absolute;
+  .title {
+    font-weight: 900;
+    color: #f4decb;
+    display: flex;
+    justify-content: center;
+  }
 }

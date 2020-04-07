@@ -7,7 +7,7 @@ import miFoto from "../images/miFoto.jpeg";
 export const Home = () => {
   return (
     <Container fliud className="home">
-      <Col className="col-12 col-md-6 align-self-center text-left col-home">
+      <Col className=" col-home">
         <Card.Body>
           <h1>¡Hola!</h1>
 
@@ -15,8 +15,7 @@ export const Home = () => {
 
           <h2>Desarrolladora Front-End</h2>
         </Card.Body>
-      </Col>
-      <Col className="col-12 col-md-6 align-self-center text-left col-home">
+
         <img src={miFoto} className="img-vianny" alt="vianny" />
       </Col>
     </Container>

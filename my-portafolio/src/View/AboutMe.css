@@ -1,3 +1,21 @@
+@media (max-width: 768px) {
+  .h2 {
+    font-weight: 500;
+  }
+
+  .col {
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+  .about-me {
+    display: block;
+    justify-content: center;
+    color: #f4decb;
+  }
+}
+
 .h2 {
   font-weight: 900;
 }

@@ -21,7 +21,7 @@ function Proyects() {
             <i className="fab fa-github"></i>
           </a>
           <a href="https://burger-queen-5875f.firebaseapp.com" Repositorio>
-            <i class="fas fa-paperclip"></i>
+            <i class="fas fa-link"></i>
           </a>
         </div>
         <div>
@@ -37,7 +37,7 @@ function Proyects() {
             href="https://revaldivieso.github.io/SCL012-Social-Network/src/index.html"
             Repositorio
           >
-            <i class="fas fa-paperclip"></i>
+            <i class="fas fa-link"></i>
           </a>
         </div>
         <div>
@@ -53,7 +53,7 @@ function Proyects() {
             href="https://tamaramunoz.github.io/SCL012-proyecto-peliculas/src/index.html"
             Repositorio
           >
-            <i class="fas fa-paperclip"></i>
+            <i class="fas fa-link"></i>
           </a>
         </div>
       </Carousel>
