@@ -1,36 +1,29 @@
-.h2 {
-  font-weight: 900;
+.card-img-top {
+  width: auto;
+  height: 160px;
 }
 
-.row {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.card {
+  padding: 10px;
+  background-color: #f4decb;
+  color: #18121e;
 }
 
-ul {
-  display: flex;
-  justify-content: center;
+.card-deck {
+  padding: 60px;
+  width: auto;
+  height: fit-content;
 }
 
-.carousel .control-dots {
-  align-items: center;
-  justify-content: center;
+.fab {
+  font-size: 40px;
 }
 
-.carousel .control-slider .control-arrow {
-  margin: 20px;
+.card-link {
+  color: #18121e;
+  font-size: 20px;
 }
 
-.caurosel li.slide img {
-  height: 400px;
-}
-
-.carousel .slide {
-  background: #18121e !important;
-  color: #f4decb;
-}
-
-.slider-images .slide div > img {
-  width: 50vh;
+.fas.fa-link {
+  font-size: 30px;
 }

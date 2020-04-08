@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Col, Card } from "react-bootstrap";
 import "./Home.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 import miFoto from "../images/miFoto.jpeg";
 
 export const Home = () => {

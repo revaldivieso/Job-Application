@@ -6,8 +6,8 @@ function Skill() {
   return (
     <Container fliud className="skills-direction">
       <Row className="justify-content-md-center skills-container">
-        <Col>
-          <h2 className="title">Habilidades técnicas</h2>
+        <Col className="skills-content">
+          <h2 className="col-home">Habilidades técnicas</h2>
           <a
             href="https://developer.mozilla.org/es/docs/Web/JavaScript"
             className="btn btn-js"

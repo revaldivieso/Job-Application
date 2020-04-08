@@ -35,12 +35,3 @@
 .sidebar div:last-child a {
   border-bottom-right-radius: 30px;
 }
-
-/*.arrow {
-  display: none;
-  width: 0;
-  height: 0;
-  border-top: 30px solid transparent;
-  border-bottom: 30px solid transparent;
-  border-right: 30px solid rgb(77, 72, 72);
-}*/
