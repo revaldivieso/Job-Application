@@ -15,3 +15,13 @@
 .contact {
   display: flex;
 }
+@media only screen and (max-width: 700px) and (min-width: 415px) {
+  .contact {
+    display: block;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

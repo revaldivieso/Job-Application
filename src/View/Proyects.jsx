@@ -24,7 +24,7 @@ function Proyects() {
             Repositorio
           </Card.Link>
           <Card.Link href="https://burger-queen-5875f.firebaseapp.com">
-            <i class="fas fa-link"></i>
+            <i className="fas fa-link"></i>
             Demo
           </Card.Link>
         </Card.Footer>
@@ -46,7 +46,7 @@ function Proyects() {
             Repositorio
           </Card.Link>
           <Card.Link href="https://revaldivieso.github.io/SCL012-Social-Network/src/index.html">
-            <i class="fas fa-link"></i>
+            <i className="fas fa-link"></i>
             Demo
           </Card.Link>
         </Card.Footer>
@@ -67,7 +67,7 @@ function Proyects() {
             Repositorio
           </Card.Link>
           <Card.Link href="https://tamaramunoz.github.io/SCL012-proyecto-peliculas/src/index.html">
-            <i class="fas fa-link"></i>
+            <i className="fas fa-link"></i>
             Demo
           </Card.Link>
         </Card.Footer>
