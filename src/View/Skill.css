@@ -21,6 +21,14 @@
   }
 }
 
+.skills-direction {
+  padding-top: 10px;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+
 .col {
   font-weight: 900;
   color: #f4decb;

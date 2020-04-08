@@ -7,7 +7,7 @@ function Skill() {
     <Container className="skills-direction">
       <Row className="justify-content-md-center skills-container">
         <Col className="skills-content">
-          <h2 className="col-home">Habilidades técnicas</h2>
+          <h2 className="col-skills">Habilidades técnicas</h2>
           <a
             href="https://developer.mozilla.org/es/docs/Web/JavaScript"
             className="btn btn-js"
