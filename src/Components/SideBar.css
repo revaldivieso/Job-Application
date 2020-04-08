@@ -1,0 +1,37 @@
+#sidebar a {
+  background: #f4decb;
+  padding: 10px 20px;
+
+  color: #18121e;
+  text-decoration: none;
+  width: 80px;
+  transition: all 0.4s ease;
+  display: flex;
+}
+
+#sidebar a:hover {
+  color: #f4decb !important;
+  background: #18121e !important;
+  padding: 10px 80px;
+  border-top-right-radius: 130px;
+  border-bottom-right-radius: 120px;
+}
+
+#sidebar a:hover > .arrow {
+  display: block;
+}
+
+.sidebar {
+  position: fixed;
+  top: 200px;
+  z-index: 100;
+  left: 0;
+}
+
+.sidebar > div:first-child a {
+  border-top-right-radius: 30px;
+}
+
+.sidebar div:last-child a {
+  border-bottom-right-radius: 30px;
+}

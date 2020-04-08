@@ -1,0 +1,29 @@
+.card-img-top {
+  width: auto;
+  height: 160px;
+}
+
+.card {
+  padding: 10px;
+  background-color: #f4decb;
+  color: #18121e;
+}
+
+.card-deck {
+  padding: 60px;
+  width: auto;
+  height: fit-content;
+}
+
+.fab {
+  font-size: 40px;
+}
+
+.card-link {
+  color: #18121e;
+  font-size: 20px;
+}
+
+.fas.fa-link {
+  font-size: 30px;
+}

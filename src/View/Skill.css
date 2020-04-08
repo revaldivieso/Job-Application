@@ -1,0 +1,40 @@
+@media only screen and (max-width: 700px) and (min-width: 415px) {
+  .skills-direction {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .skills-content {
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .col {
+    font-weight: 900;
+    color: #f4decb;
+    justify-content: center;
+  }
+}
+
+.col {
+  font-weight: 900;
+  color: #f4decb;
+  justify-content: center;
+}
+
+.btn i {
+  color: #f4decb;
+}
+
+.skills {
+  font-size: 80px !important;
+}
+
+.btn {
+  padding: 3.375rem 2.75rem;
+}
