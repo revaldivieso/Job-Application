@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 function Skill() {
   return (
-    <Container className="skills-direction">
+    <Container className="opacity skills-direction">
       <Row className="justify-content-md-center skills-container">
         <Col className="skills-content">
           <h2 className="col-skills">Habilidades técnicas</h2>

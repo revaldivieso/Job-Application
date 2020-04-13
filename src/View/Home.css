@@ -2,8 +2,15 @@
   padding: 0;
   margin: 0;
 }
+.opacity {
+  opacity: 0.9;
+  background-color: #18121e;
+}
 
 .col-home {
+  display: flex;
+  text-align: center;
+  padding: 30px 1em 1em 2em;
   font-weight: 900;
   color: #f4decb;
 }
@@ -20,14 +27,11 @@ img {
   border-style: none;
 }
 
-.col-home {
-  display: flex;
-  text-align: center;
-  padding: 30px 1em 1em 2em;
-}
-
 @media only screen and (max-width: 700px) and (min-width: 315px) {
   .col-home {
+    display: block;
+    text-align: center;
+    padding: 30px 1em 1em 2em;
     font-weight: 900;
     color: #f4decb;
   }
@@ -47,11 +51,5 @@ img {
   .row {
     display: block;
     flex-wrap: wrap;
-  }
-
-  .col-home {
-    display: block;
-    text-align: center;
-    padding: 30px 1em 1em 2em;
   }
 }

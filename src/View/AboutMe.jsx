@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 function AboutMe() {
   return (
-    <Container className="about">
+    <Container className="opacity about">
       <Row>
         <Col className="about-me">
           <h2>
