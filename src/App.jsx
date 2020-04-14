@@ -3,7 +3,7 @@ import Contact from "./View/Contact";
 import Skill from "./View/Skill";
 import Proyects from "./View/Proyects";
 import AboutMe from "./View/AboutMe";
-import Home from "./View/Home";
+import TemplateHome from "./Template/TemplateHome";
 import SideBar from "./Components/SideBar";
 import Layout from "./Components/Layout";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
@@ -18,7 +18,7 @@ function App() {
           <Route path="/skill" component={Skill} />
           <Route path="/proyects" component={Proyects} />
           <Route path="/aboutMe" component={AboutMe} />
-          <Route path="/" component={Home} />
+          <Route path="/" component={TemplateHome} />
         </Switch>
       </Layout>
     </Router>
