@@ -7,7 +7,7 @@ function AboutMe() {
     <Container className="opacity about">
       <Row>
         <Col className="about-me">
-          <h2>
+          <h2 className="about">
             Mi formación profesional se especializa en el área de desarrollo
             web, a través del uso de herramientas como ES6, React, CSS, HTML 5,
             Firesbase, GitHub y Git. Con interés en el desarrollo de soluciones

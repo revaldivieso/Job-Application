@@ -36,9 +36,9 @@ function Proyects() {
             <Card.Title>Proyecto Red Social</Card.Title>
             <Card.Text>
               Bitácora es la red social diseñada en mobile first para personas
-              que practiquen trekking,puedan encontrar información actualizada
-              aportada por otros usuarios sobre excursiones en Santiago y sus
-              alrededores.
+              que practiquen trekking, aquí pueden encontrar información
+              actualizada aportada por otros usuarios sobre excursiones en
+              Santiago y sus alrededores.
             </Card.Text>
           </Card.Body>
           <Card.Footer>

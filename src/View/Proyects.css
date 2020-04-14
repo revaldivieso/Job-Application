@@ -1,35 +1,62 @@
-@media only screen and (max-width: 700px) and (min-width: 415px) {
+@media only screen and (max-width: 700px) and (min-width: 315px) {
   .card-deck {
     display: block;
     text-align: justify;
   }
-}
-.card-img-top {
-  width: auto;
-  height: 160px;
+
+  .fab {
+    font-size: 40px;
+  }
+  .card-img-top {
+    width: auto;
+    height: 160px;
+  }
+
+  .card {
+    padding: 25px;
+    background-color: #f4decb;
+    color: #18121e;
+  }
+  .card-link {
+    display: flex;
+    justify-content: center;
+    color: #18121e;
+    font-size: 17px;
+  }
+
+  .fas.fa-link {
+    font-size: 30px;
+  }
 }
 
-.card {
-  padding: 10px;
-  background-color: #f4decb;
-  color: #18121e;
-}
+@media (min-width: 700px) {
+  .card-deck {
+    padding: 80px;
+    width: auto;
+    height: fit-content;
+  }
 
-.card-deck {
-  padding: 80px;
-  width: auto;
-  height: fit-content;
-}
+  .fab {
+    font-size: 40px;
+  }
+  .card-img-top {
+    width: auto;
+    height: 160px;
+  }
 
-.fab {
-  font-size: 40px;
-}
+  .card {
+    padding: 10px;
+    background-color: #f4decb;
+    color: #18121e;
+  }
+  .card-link {
+    display: flex;
+    justify-content: center;
+    color: #18121e;
+    font-size: 17px;
+  }
 
-.card-link {
-  color: #18121e;
-  font-size: 20px;
-}
-
-.fas.fa-link {
-  font-size: 30px;
+  .fas.fa-link {
+    font-size: 30px;
+  }
 }

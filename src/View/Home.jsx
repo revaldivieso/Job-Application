@@ -10,7 +10,7 @@ export const Home = () => {
         <Card.Body>
           <h1>¡Hola!</h1>
 
-          <h1>soy Vianny Reyes</h1>
+          <h1>Soy Vianny Reyes</h1>
 
           <h2>Desarrolladora Front-End</h2>
         </Card.Body>
