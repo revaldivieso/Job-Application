@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Job-Application/static/css/main.5e62c3db.chunk.css",
+    "main.js": "/Job-Application/static/js/main.ba3b0030.chunk.js",
+    "main.js.map": "/Job-Application/static/js/main.ba3b0030.chunk.js.map",
+    "runtime-main.js": "/Job-Application/static/js/runtime-main.35395cd3.js",
+    "runtime-main.js.map": "/Job-Application/static/js/runtime-main.35395cd3.js.map",
+    "static/css/2.de424728.chunk.css": "/Job-Application/static/css/2.de424728.chunk.css",
+    "static/js/2.64d81074.chunk.js": "/Job-Application/static/js/2.64d81074.chunk.js",
+    "static/js/2.64d81074.chunk.js.map": "/Job-Application/static/js/2.64d81074.chunk.js.map",
+    "index.html": "/Job-Application/index.html",
+    "precache-manifest.ab697237f826a24a5ba4e506b9a7c922.js": "/Job-Application/precache-manifest.ab697237f826a24a5ba4e506b9a7c922.js",
+    "service-worker.js": "/Job-Application/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Job-Application/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5e62c3db.chunk.css.map": "/Job-Application/static/css/main.5e62c3db.chunk.css.map",
+    "static/js/2.64d81074.chunk.js.LICENSE.txt": "/Job-Application/static/js/2.64d81074.chunk.js.LICENSE.txt",
+    "static/media/burger.png": "/Job-Application/static/media/burger.0afe1f74.png",
+    "static/media/Layout.css": "/Job-Application/static/media/fondo.b90dec75.jpg",
+    "static/media/miFoto.jpeg": "/Job-Application/static/media/miFoto.1843dd52.jpeg",
+    "static/media/peliculas.png": "/Job-Application/static/media/peliculas.7f887b3a.png",
+    "static/media/red.png": "/Job-Application/static/media/red.e77cad0c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35395cd3.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.64d81074.chunk.js",
+    "static/css/main.5e62c3db.chunk.css",
+    "static/js/main.ba3b0030.chunk.js"
+  ]
+}
