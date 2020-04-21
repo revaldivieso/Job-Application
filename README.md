@@ -1,6 +1,6 @@
-![logo](readmeImg/logo.jpg)
+![logo](readmeImg/portafolio.png)
 
-# [My Portafolio](https://portafolio-437cd.web.app/)
+## [My Portafolio](https://portafolio-437cd.web.app/)
 
 ## 1. Preámbulo
 
@@ -41,7 +41,5 @@ Mi formación profesional se especializa en el área de desarrollo web, a travé
 ### [Bootstrap](https://getbootstrap.com).
 
 ## 4. Contáctame:
-
-### [correo](reyesvi92@gmail.com).
 
 ### [Linkedin](https://www.linkedin.com/in/vianny-reyes-65b919157).
