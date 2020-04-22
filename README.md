@@ -14,7 +14,7 @@ Mi formación profesional se especializa en el área de desarrollo web, a travé
 
 ### Red Social:
 
-[Bitácora](https://revaldivieso.github.io/SCL012-Social-Network/src/index.html), es la red social diseñada en mobile first para personas que practiquen trekking, aquí pueden encontrar información actualizada aportada por otros usuarios sobre excursiones en Santiago y sus alrededores.
+[Bitácora](https://bitacora-v1.web.app/#/singIn), es la red social diseñada en mobile first para personas que practiquen trekking, aquí pueden encontrar información actualizada aportada por otros usuarios sobre excursiones en Santiago y sus alrededores.
 
 ### Películas:
 
