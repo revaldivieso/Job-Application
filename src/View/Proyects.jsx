@@ -42,11 +42,11 @@ function Proyects() {
             </Card.Text>
           </Card.Body>
           <Card.Footer>
-            <Card.Link href='https://bitacora-v1.web.app/#/singIn'>
+            <Card.Link href='https://github.com/revaldivieso/SCL012-Social-Network'>
               <i className='fab fa-github'></i>
               Repositorio
             </Card.Link>
-            <Card.Link href='https://revaldivieso.github.io/SCL012-Social-Network/src/index.html'>
+            <Card.Link href='https://bitacora-v1.web.app/#/singIn'>
               <i className='fas fa-link'></i>
               Demo
             </Card.Link>
