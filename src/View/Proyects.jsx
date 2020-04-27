@@ -64,7 +64,7 @@ function Proyects() {
             </Card.Text>
           </Card.Body>
           <Card.Footer>
-            <Card.Link href='https://github.com/revaldivieso/SCL012-proyecto-pelicula'>
+            <Card.Link href='https://github.com/revaldivieso/SCL012-proyecto-peliculas'>
               <i className='fab fa-github'></i>
               Repositorio
             </Card.Link>
