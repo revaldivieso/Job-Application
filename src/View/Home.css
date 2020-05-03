@@ -19,10 +19,12 @@
   }
 
   .img-vianny {
+    background-image: url("../images/miFoto2.jpeg");
     width: 320px;
     height: 300px;
     margin: 1em auto;
     border-radius: 50%;
+    background-position: center;
   }
 
   img {
@@ -47,11 +49,14 @@
   }
 
   .img-vianny {
+    background-image: url("../images/miFoto1.jpeg");
     width: 200px;
     height: 200px;
     margin: 1em auto;
     border-radius: 50%;
+    background-position: center;
   }
+
 
   img {
     vertical-align: middle;

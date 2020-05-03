@@ -1,12 +1,11 @@
-import React from "react";
-import { Container, Col, Card } from "react-bootstrap";
-import "./Home.css";
-import miFoto from "../images/miFoto.jpeg";
+import React from 'react';
+import { Container, Col, Card } from 'react-bootstrap';
+import './Home.css';
 
 export const Home = () => {
   return (
-    <Container className="opacity home">
-      <Col className="col-home">
+    <Container className='opacity home'>
+      <Col className='col-home'>
         <Card.Body>
           <h1>¡Hola!</h1>
 
@@ -14,8 +13,7 @@ export const Home = () => {
 
           <h2>Desarrolladora Front-End</h2>
         </Card.Body>
-
-        <img src={miFoto} className="img-vianny" alt="vianny" />
+        <div className='img-vianny'></div>
       </Col>
     </Container>
   );
