@@ -11,7 +11,9 @@ function Contact() {
           <a href='mailto:reyesvi92@gmail.com' className='btn btn-email'>
             <i class='fas fa-envelope-square'></i>
           </a>
-          <a href='/contact/phone' className='btn btn-email'>
+          <a
+            href='https://drive.google.com/file/d/1tgMWmGK6UljP2SkgZv9VOPbpviklyW6h/view?usp=sharing'
+            className='btn btn-email'>
             <i class='fas fa-file-pdf'></i>
           </a>
           <a
