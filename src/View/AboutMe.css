@@ -20,12 +20,13 @@
 
 @media (min-width: 700px) {
   .about {
-    font-weight: 900;
+    font-size: 1.3em;
     text-align: justify;
     color: #f4decb;
   }
 
   .col {
+    text-align: center;
     align-items: center;
     justify-content: center;
     min-height: 100vh;

@@ -1,9 +1,9 @@
-.red a {
-  margin: 10px 10px;
-}
-
 .fab {
   font-size: 70px;
+}
+
+.btn-email {
+  font-size: 80px;
 }
 
 .row {
@@ -15,10 +15,12 @@
 .contact {
   display: flex;
 }
+
 @media only screen and (max-width: 700px) and (min-width: 315px) {
   .contact {
     display: block;
   }
+
   .row {
     display: flex;
     align-items: center;

@@ -8,6 +8,7 @@ import { Container, Card, CardDeck } from 'react-bootstrap';
 function Proyects() {
   return (
     <Container className='opacity'>
+      <h2 className='col-skills'>Proyectos</h2>
       <CardDeck>
         <Card>
           <Card.Img variant='top' src={insert} alt='' />
