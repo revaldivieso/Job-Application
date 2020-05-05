@@ -9,12 +9,12 @@ function Contact() {
         <Col className='skills-content'>
           <h2 className='col-skills'>Contactos</h2>
           <a href='mailto:reyesvi92@gmail.com' className='btn btn-email'>
-            <i class='fas fa-envelope-square'></i>
+            <i className='skills fas fa-envelope-square'></i>
           </a>
           <a
             href='https://drive.google.com/file/d/1tgMWmGK6UljP2SkgZv9VOPbpviklyW6h/view?usp=sharing'
             className='btn btn-email'>
-            <i class='fas fa-file-pdf'></i>
+            <i className='skills fas fa-file-pdf'></i>
           </a>
           <a
             href='https://www.linkedin.com/in/vianny-reyes-65b919157'

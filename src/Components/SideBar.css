@@ -1,7 +1,6 @@
 #sidebar a {
   background: #f4decb;
   padding: 10px 20px;
-
   color: #18121e;
   text-decoration: none;
   width: 80px;
@@ -17,7 +16,7 @@
   border-bottom-right-radius: 120px;
 }
 
-#sidebar a:hover > .arrow {
+#sidebar a:hover>.arrow {
   display: block;
 }
 
@@ -28,10 +27,14 @@
   left: 0;
 }
 
-.sidebar > div:first-child a {
+.sidebar>div:first-child a {
   border-top-right-radius: 30px;
 }
 
 .sidebar div:last-child a {
   border-bottom-right-radius: 30px;
+}
+
+.btnside {
+  font-size: 30px;
 }
