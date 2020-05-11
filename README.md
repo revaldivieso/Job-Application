@@ -10,7 +10,7 @@ Mi formación profesional se especializa en el área de desarrollo web, a travé
 
 ### Proyecto Burger Queen:
 
-[Insert Quest](https://burger-queen-5875f.firebaseapp.com), es una aplicación para tablets diseñada para el pub gamer Insert Coin, donde se puedan tomar órdenes y mandar comandas a cocina sin necesidad de recurrir al papel y lápiz.
+[Insert Quest](https://insert-quest.web.app), es una aplicación para tablets diseñada para el pub gamer Insert Coin, donde se puedan tomar órdenes y mandar comandas a cocina sin necesidad de recurrir al papel y lápiz.
 
 ### Red Social:
 
