@@ -25,7 +25,7 @@ function Proyects() {
               <i className='fab fa-github'></i>
               Repositorio
             </Card.Link>
-            <Card.Link href='https://burger-queen-5875f.firebaseapp.com'>
+            <Card.Link href='https://insert-quest.web.app'>
               <i className='fas fa-link'></i>
               Demo
             </Card.Link>
